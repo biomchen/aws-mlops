@@ -1,2 +1,2 @@
-# aws-mlops
-AWS MLOps
+# AWS MLops
+The repo contains basic mlops execrises using different AWS servic.
